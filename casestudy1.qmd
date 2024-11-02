@@ -2,3 +2,28 @@
 title: "Case Study 1"
 ---
 
+# Case Giving Organization: [International Water Managment Institute](https://www.iwmi.cgiar.org/)
+
+<div style="text-align: center;">
+
+The International Water Management Institute (IWMI) is an international research-for-development (R4D) organization with offices in 15 countries and a global network of over ~200 scientists operating in 56 countries. Our vision is a water-secure world, and our mission is to provide water solutions for sustainable, climate-resilient development. For nearly four decades, our research results have led to positive changes in water management that have contributed to social and economic development.
+IWMI is a member research center of the CGIAR, a global research partnership for a food-secure future dedicated to reducing poverty, enhancing food and nutrition security, and improving natural resources management. IWMI targets water and land management challenges faced by poor communities in developing countries, and through this contributes towards the achievement of the Sustainable Development Goals (SDGs) of reducing poverty and hunger and maintaining a sustainable environment.
+Based on evidence and knowledge drawn from our science, innovative technologies, and testing of business models, IWMI works with governments, farmers, water managers, development partners, and businesses to solve water problems and scale-up solutions. Together with our partners, we combine research with data to build and enhance knowledge, information services and products, strengthen capacity, convene dialogue, and deliver actionable policy analysis to support the implementation of solutions for water management. Through research, policy development, capacity building, and knowledge sharing, IWMI:
+</div>
+
+- Provides insights into water and land management from field to basin scales.
+
+- Analyzes biophysical and socioeconomic processes.
+
+- Assesses trade-offs of alternative development scenarios, taking a nexus perspective. 
+
+- Incorporates ecosystem approaches into agricultural systems.
+
+- Assesses performance and identifies solutions for agricultural water management – large- and small-scale.
+
+- Improves resilience to climate shocks and provides flood and drought analysis for planning and response, and analysis of big data in real time.
+
+- Identifies groundwater solutions, reducing overuse and recharging for resilience.
+- Promotes recovery and the safe reuse of organic waste and wastewater in agriculture.
+
+- IWMI has a strong record of accomplishment in research and development, in groundwater management, water budgets and water balance assessments, integrated water resources management, data management, capacity building, and climate change adaptation in data rich and data sparse environments. 
