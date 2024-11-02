@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "International Statistics Conference 2024<br>Case Study Poster Competition"
