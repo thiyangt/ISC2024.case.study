@@ -4,11 +4,11 @@ title: "Competition Guidelines"
 
 # 1. Participation and Team Formation Guidelines
 
-1.1  The competition is open for undergraduates and recent graduates across all universities and Higher Education Institutes in Sri Lanka.
+1.1 The competition is open for undergraduates and recent graduates across all universities and Higher Education Institutes in Sri Lanka.
 
-1.2  If the student is a recent graduate, the effective date of the degree should be after 01/01/2024.
+1.2 If the student is a recent graduate, the effective date of the degree should be after 01/01/2024.
 
-1.3  The team must consist of 2 to 3 participants, with a minimum of 2 and a maximum of 3.
+1.3 The team must consist of 2 to 3 participants, with a minimum of 2 and a maximum of 3.
 
 1.4 Team members may or may not be from the same university or higher education institution.
 
@@ -16,13 +16,13 @@ title: "Competition Guidelines"
 
 # 2. Competition Task
 
-2.1 There are two case studies available. Descriptions for Case Study 1 and Case Study 2 can be viewed by hovering over the respective tabs. 
+2.1 There are two case studies available. Descriptions for Case Study 1 and Case Study 2 can be viewed by hovering over the respective tabs.
 
 2.2 Upon registration, datasets for both case studies will be provided.
 
 2.3 Each team needs to select one case study and conduct analysis to achieve its listed objectives.
 
-2.4 Based on their analysis, each team should submit the following documents: **1)  abstract, 2)  digital copy of the poster, 3) 10-minutes video presentation, 4) printed copy of the poster**
+2.4 Based on their analysis, each team should submit the following documents: **1) abstract, 2) digital copy of the poster, 3) 10-minutes video presentation, 4) printed copy of the poster according to the dimensions specified in 5.1**
 
 2.5 See sections 4-5 for abstract, poster and video presentation guidelines.
 
@@ -57,53 +57,58 @@ kable(df, format = "html", table.attr = "style='width: 100%;'") %>%
 
 # 4. Abstract Guidelines
 
-1. 
+1.  
 
 # 5. Poster Guidelines
 
 **5.1 Poster Dimensions:**
 
-The poster must adhere to the specified dimensions outlined by the committee as below. 
+The poster must adhere to the specified dimensions outlined by the committee as below.
 
--	Poster must be portrait oriented. 
--	Dimensions: 5 ft  x 2 ft (height x width).
--	You will not be able to paste it or hang it to any of the walls or stands in the conference venue. Hence, your poster will be a standing poster. The stand will be provided by the conference organizers if required.
-
+-   Poster must be portrait oriented.
+-   Dimensions: 5 ft x 2 ft (height x width).
+-   You will not be able to paste it or hang it to any of the walls or stands in the conference venue. Hence, your poster will be a standing poster. The stand will be provided by the conference organizers if required.
 
 ![](poster.png)
 
 **5.2 Design Considerations:**
 
-- While there are no specific font sizes or types, ensure that text is legible from a distance. Use a balanced layout that allows for easy navigation through the content.
+-   While there are no specific font sizes or types, ensure that text is legible from a distance. Use a balanced layout that allows for easy navigation through the content.
 
-- Utilize appropriate colors and graphics to enhance readability and visual appeal. Avoid overcrowding your poster; leave ample white space for a clean look.
+-   Utilize appropriate colors and graphics to enhance readability and visual appeal. Avoid overcrowding your poster; leave ample white space for a clean look.
 
-- Be mindful of color contrasts, ensuring that all text and visuals are easily distinguishable.
+-   Be mindful of color contrasts, ensuring that all text and visuals are easily distinguishable.
 
 **5.3 Poster contents:**
 
 Your poster should include the following sections:
 
-  **Title:**  It is recommended to keep the title of the poster the same as in the submitted abstract. It should be prominently displayed at the top of the poster.
+**Title:** It is recommended to keep the title of the poster the same as in the submitted abstract. It should be prominently displayed at the top of the poster.
 
-  **Author(s) and Affiliation(s):** List all authors along with their respective institutions. Include the corresponding author's email address for inquiries.
+**Author(s) and Affiliation(s):** List all authors along with their respective institutions. Include the corresponding author's email address for inquiries.
 
-  **Introduction**
+**Introduction**
 
-  **Methods**
+**Methods**
 
-  **Results**
+**Results**
 
-  **Discussion**
+**Discussion**
 
-  **Conclusions**
+**Conclusions**
 
-  **Acknowledgements**
+**Acknowledgements**
 
-  **References**
-  
-  **Team name and Email addresses of all members**
+**References**
 
-# 6. 10-minutes Video Presentation Guidelines 
+**Team name and Email addresses of all members**
 
+# 6. 10-minutes Video Presentation Guidelines
 
+6.1 our video presentation should be organized into the following sections, ensuring that you stay within the 10-minute time limit: i) Cover: Title and team members, ii) Introduction, iii) Methods, iv) Results, v) Discussion, vi) Conclusions, Acknowledgements
+
+6.2 You are allowed to use slides to enhance your presentation. Make sure that your slides are clear, concise, and visually appealing.
+
+6.3 Adhere strictly to the 10-minute time limit. Video presentations longer than 10 minutes will not be evaluated.
+
+6.4 Ensure that your video is of good quality, with clear audio and visuals.
