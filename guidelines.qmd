@@ -57,7 +57,7 @@ kable(df, format = "html", table.attr = "style='width: 100%;'") %>%
 
 # 4. Abstract Guidelines
 
-1.  
+Click here to view he abstract template and guidelines.
 
 # 5. Poster Guidelines
 
