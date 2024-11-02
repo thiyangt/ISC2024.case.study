@@ -4,7 +4,7 @@ project:
 website:
   title: "International Statistics Conference 2024<br>Case Study Poster Competition"
   navbar:
-    left:
+    right:
       - about.qmd
       - casestudy1.qmd
       - casestudy2.qmd
