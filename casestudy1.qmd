@@ -4,12 +4,12 @@ title: "Case Study 1"
 
 # Case Giving Organization: [International Water Managment Institute](https://www.iwmi.cgiar.org/)
 
-<div style="text-align: center;">
+<div style="text-align: justify;">
 
 The International Water Management Institute (IWMI) is an international research-for-development (R4D) organization with offices in 15 countries and a global network of over ~200 scientists operating in 56 countries. Our vision is a water-secure world, and our mission is to provide water solutions for sustainable, climate-resilient development. For nearly four decades, our research results have led to positive changes in water management that have contributed to social and economic development.
 IWMI is a member research center of the CGIAR, a global research partnership for a food-secure future dedicated to reducing poverty, enhancing food and nutrition security, and improving natural resources management. IWMI targets water and land management challenges faced by poor communities in developing countries, and through this contributes towards the achievement of the Sustainable Development Goals (SDGs) of reducing poverty and hunger and maintaining a sustainable environment.
 Based on evidence and knowledge drawn from our science, innovative technologies, and testing of business models, IWMI works with governments, farmers, water managers, development partners, and businesses to solve water problems and scale-up solutions. Together with our partners, we combine research with data to build and enhance knowledge, information services and products, strengthen capacity, convene dialogue, and deliver actionable policy analysis to support the implementation of solutions for water management. Through research, policy development, capacity building, and knowledge sharing, IWMI:
-</div>
+
 
 - Provides insights into water and land management from field to basin scales.
 
@@ -27,3 +27,25 @@ Based on evidence and knowledge drawn from our science, innovative technologies,
 - Promotes recovery and the safe reuse of organic waste and wastewater in agriculture.
 
 - IWMI has a strong record of accomplishment in research and development, in groundwater management, water budgets and water balance assessments, integrated water resources management, data management, capacity building, and climate change adaptation in data rich and data sparse environments. 
+</div>
+
+# Data sets 
+
+For the case study 1, we have two datasets as follows:
+
+1. Daily remote sensing based rainfall data of Sri Lanka: Daily time series  of rainfall data obtained the from Multi-Source Weighted-Ensemble Precipitation product (https://www.gloh2o.org/mswep/) 1979 to 2023, stored as GeoTIFF files (Format – geospatial).
+
+2. Areal average daily rainfall time series data in Sri Lanka for major metro stations obtained the from Multi-Source Weighted-Ensemble Precipitation product (https://www.gloh2o.org/mswep/) from 1979 to 2023, stored as a CSV file and provided for Sri Lanka (format – time series data in text or csv).
+
+# Objectives of the case study
+
+Derive key [rainfall](https://etccdi.pacificclimate.org/list_27_indices.shtml) indices and  analyze spatial-temporal trends and generate innovative visualizations and graphics.
+
+Participants are expected to:
+
+- Conduct spatial and temporal trend analysis and change detection using the provided datasets. In particular we are interested in the trend analysis indicators presented by Lacombe et al., and Sedlmier et al., (see attached papers).
+
+- Analyze seasonality and other temporal patterns in the data. 
+
+- Generate visual representations of the analysis 
+Document the methodologies used in their analysis with reproducible code. (Codes should not be included in the poster, submit them as a separate file.)
