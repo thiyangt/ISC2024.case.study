@@ -1,1 +1,28 @@
 /* css styles */
+/* Set background color to dark blue */
+body {
+    background-color: #FFFFFF; /* Dark blue color */
+    color: #000000; /* White text color */
+}
+
+/* Change link colors */
+a {
+    color: #d93816; /* Change to a lighter color for links */
+}
+
+a:hover {
+    color: #d93816; /* Change to yellow on hover */
+}
+
+/* Customize navbar background and text color */
+.navbar {
+    background-color: #002244; /* Darker blue for navbar */
+}
+
+.navbar a {
+    color: #ffffff; /* White text in navbar */
+}
+
+.navbar a:hover {
+    color: #ffcc00; /* Change to a lighter color on hover */
+}

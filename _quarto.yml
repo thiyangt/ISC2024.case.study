@@ -4,9 +4,12 @@ project:
 
 website:
   title: "International Statistics Conference 2024<br>Case Study Poster Competition"
+  site-url: "https://thiyangt.github.io/ISC2024.case.study/"
   navbar:
     right:
       - about.qmd
+      - guidelines.qmd
+      - registration.qmd
       - casestudy1.qmd
       - casestudy2.qmd
 
