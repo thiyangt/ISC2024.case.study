@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "International Statistics Conference 2024<br>Case Study Poster Competition"
+  navbar:
+    left:
+      - about.qmd
+      - casestudy1.qmd
+      - casestudy2.qmd
+
+format:
+  html:
+    theme: materia
+    css: styles.css
+    toc: true
+
+editor: visual
+
