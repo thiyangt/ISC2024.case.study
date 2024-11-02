@@ -1,0 +1,14 @@
+---
+title: "Announcements"
+---
+
+All participants are required to regularly check the website, as important notices will be posted here!
+
+<section id="subscribe" style="text-align: center; padding: 20px; background-color: #f9f9f9; border-radius: 5px;">
+    <h2>Subscribe to Our Website</h2>
+    <p>Stay updated with the latest news and announcements. Enter your email below to subscribe!</p>
+    <form action="your-subscribe-endpoint" method="post" style="display: inline-block;">
+        <input type="email" name="email" placeholder="Enter your email" required style="padding: 10px; width: 250px; border-radius: 5px; border: 1px solid #ccc;">
+        <button type="submit" style="padding: 10px 15px; border: none; border-radius: 5px; background-color: #007bff; color: white; cursor: pointer;">Subscribe</button>
+    </form>
+</section>

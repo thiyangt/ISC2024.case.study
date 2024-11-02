@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://thiyangt.github.io/ISC2024.case.study/registration.html</loc>
-    <lastmod>2024-11-02T16:52:47.000Z</lastmod>
+    <loc>https://thiyangt.github.io/ISC2024.case.study/submissions.html</loc>
+    <lastmod>2024-11-02T18:00:27.932Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thiyangt.github.io/ISC2024.case.study/news.html</loc>
+    <lastmod>2024-11-02T17:41:16.350Z</lastmod>
   </url>
   <url>
     <loc>https://thiyangt.github.io/ISC2024.case.study/guidelines.html</loc>
-    <lastmod>2024-11-02T16:52:04.615Z</lastmod>
+    <lastmod>2024-11-02T17:59:52.484Z</lastmod>
   </url>
   <url>
     <loc>https://thiyangt.github.io/ISC2024.case.study/casestudy1.html</loc>
     <lastmod>2024-11-02T16:33:56.113Z</lastmod>
   </url>
   <url>
-    <loc>https://thiyangt.github.io/ISC2024.case.study/about.html</loc>
-    <lastmod>2024-11-02T16:55:43.936Z</lastmod>
+    <loc>https://thiyangt.github.io/ISC2024.case.study/announcements.html</loc>
+    <lastmod>2024-11-02T17:42:36.565Z</lastmod>
   </url>
   <url>
     <loc>https://thiyangt.github.io/ISC2024.case.study/casestudy2.html</loc>
@@ -22,6 +26,10 @@
   </url>
   <url>
     <loc>https://thiyangt.github.io/ISC2024.case.study/index.html</loc>
-    <lastmod>2024-11-02T17:08:18.345Z</lastmod>
+    <lastmod>2024-11-02T17:38:23.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thiyangt.github.io/ISC2024.case.study/registration.html</loc>
+    <lastmod>2024-11-02T18:01:08.220Z</lastmod>
   </url>
 </urlset>

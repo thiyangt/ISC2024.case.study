@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Announcements",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "All participants are required to regularly check the website, as important notices will be posted here!\n\n\nSubscribe to Our Newsletter\n\n\nStay updated with the latest news and announcements. Enter your email below to subscribe!\n\n\n Subscribe"
+  },
+  {
+    "objectID": "guidelines.html",
+    "href": "guidelines.html",
+    "title": "Competition Guidelines",
+    "section": "",
+    "text": "1. Participation and Team Formation Guidelines\n\n\nThe competition is open for undergraduates and recent graduates across all universities and Higher Education Institutes in Sri Lanka.\nIf the student is a recent graduate, the effective date of the degree should be after 01/01/2024.\nThe team must consist of 2 to 3 participants, with a minimum of 2 and a maximum of 3.\nTeam members may or may not be from the same university/ higher education institute.\n\n\n\n2. Competition Task\n\n\n3. Important Dates\n\n\n4. Poster Guidelines\n\n\n5. Things to submit"
+  },
+  {
+    "objectID": "announcements.html",
+    "href": "announcements.html",
+    "title": "Announcements",
+    "section": "",
+    "text": "All participants are required to regularly check the website, as important notices will be posted here!\n\n\nSubscribe to Our Website\n\n\nStay updated with the latest news and announcements. Enter your email below to subscribe!\n\n\n Subscribe"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "The International Statistics Conference 2024 (ISC 2024), organized by the Institute of Applied Statistics, Sri Lanka (IASSL), is set to take place on December 28–29, 2024, at Cinnamon Lakeside Colombo, Sri Lanka.\nIn conjunction with ISC 2024, a case study poster competition will be held to provide undergraduates and recent graduates with an opportunity to showcase their analytical and presentation skills."
+    "text": "The International Statistics Conference 2024 (ISC 2024), organized by the Institute of Applied Statistics, Sri Lanka (IASSL), is set to take place on December 28–29, 2024, at Cinnamon Lakeside Colombo, Sri Lanka.\nIn conjunction with ISC 2024, a case study poster competition will be held to provide undergraduates and recent graduates with an opportunity to showcase their analytical and presentation skills. Participants must enter as teams, encouraging collaboration and shared learning.\nBenefits of Participating in the Case Study Poster Competition at ISC 2024:\n\nRecognition and Exposure: Showcase your work to a broader audience at a prestigious conference, gaining visibility within the academic and professional community.\nNetworking Opportunities: Engage with renowned academics, researchers, and industry experts, fostering connections that could lead to future collaborations or career opportunities.\nCollaborative Experience: Work in teams to promote collaboration and the sharing of diverse ideas and perspectives, enhancing the overall learning experience.\nCareer Advancement: Build a strong portfolio by participating in the competition, which can be advantageous for future academic or job applications.\nFeedback and Guidance: Receive constructive feedback from experienced professionals, which can improve participants’ understanding and application of statistical methods.\nSkill Development: Participants will enhance their analytical, research, and presentation skills by working on real-world case studies and presenting their findings."
   }
 ]
