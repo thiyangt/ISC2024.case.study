@@ -14,6 +14,8 @@ title: "Competition Guidelines"
 
 1.5 Teams can include only undergraduates, only recent graduates, or a mix of both.
 
+1.6 A participant can be part of only one team.
+
 # 2. Competition Task
 
 2.1 There are two case studies available. Descriptions for Case Study 1 and Case Study 2 can be viewed by hovering over the respective tabs.
