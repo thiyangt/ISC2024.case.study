@@ -128,3 +128,7 @@ Your poster should include the following sections:
 2. Posters with low quality, plagiarism, data fabrication, or any form of copying will result in disqualification, and teams will not be invited to present at ISC 2024.
 
 3. Final decisions will be made by the judges.
+
+4. All participants are required to regularly check the website- Announcements page, as important notices will be posted here!
+
+5. If any data quality issues arise (such as missing data, outliers, etc.), teams should address them independently and not direct those queries to the organizing committee. Please clearly outline the methods you used to handle these issues on your poster.
