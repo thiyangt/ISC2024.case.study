@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "submissions.html",
+    "href": "submissions.html",
+    "title": "Submissions",
+    "section": "",
+    "text": "The submission link will open on November 14, 2024."
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "Announcements",
@@ -68,12 +75,5 @@
     "title": "Competition Registration",
     "section": "1.2 Pay via Payment portal",
     "text": "1.2 Pay via Payment portal\nClick here."
-  },
-  {
-    "objectID": "submissions.html",
-    "href": "submissions.html",
-    "title": "Submissions",
-    "section": "",
-    "text": "The submission link will open on November 14, 2024."
   }
 ]
