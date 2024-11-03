@@ -4,7 +4,7 @@ title: "Competition Registration"
 
 # Registration fee:
 
-Per team: LKR 1000 only 
+Per team: LKR 1000 only
 
 # 1. Payment Methods:
 
@@ -20,7 +20,7 @@ Branch: Thimbirigasyaya
 
 Bank: Sampath Bank
 
-## 1.2 Pay via Payment portal
+## 1.2 Pay via payment portal
 
 Click [here](https://pay.iassl.lk/).
 
@@ -30,17 +30,14 @@ Fill [this](/declaration/declaration.pdf) declaration form.
 
 # 3. Information and Documents Required to Complete the Registration Form:
 
-  - Team Name
-  - Names of Team Members
-  - Email Addresses of Team Members
-  - Contact Numbers of Team Members
-  - Student ID (for undergraduates) or a Transcript/Verification Letter (for recent graduates) submitted as a single PDF file
-  - Completed Declaration Form
-  - Payment Receipt
- 
+-   Team Name
+-   Names of Team Members
+-   Email Addresses of Team Members
+-   Contact Numbers of Team Members
+-   Student ID (for undergraduates) or a Transcript/Verification Letter (for recent graduates) submitted as a single PDF file
+-   Completed Declaration Form
+-   Payment Receipt
 
 # 4. Registration link:
 
-[https://forms.gle/xT6YQxoVmL7V4MSz8](https://forms.gle/xT6YQxoVmL7V4MSz8)
-
-
+<https://forms.gle/xT6YQxoVmL7V4MSz8>
