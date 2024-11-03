@@ -45,7 +45,7 @@ Derive key [rainfall](https://etccdi.pacificclimate.org/list_27_indices.shtml) i
 
 Participants are expected to:
 
-- Conduct spatial and temporal trend analysis and change detection using the provided datasets. In particular we are interested in the trend analysis indicators presented by Lacombe et al., and Sedlmier et al., (see attached papers).
+- Conduct spatial and temporal trend analysis and change detection using the provided datasets. In particular we are interested in the trend analysis indicators presented by Lacombe et al., and Sedlmier et al., (see attached papers under the section "Lacombe et al., and Sedlmier et al. Papers").
 
 - Analyze seasonality and other temporal patterns in the data. 
 
@@ -58,3 +58,16 @@ Document the methodologies used in their analysis with reproducible code. (Codes
 Click on the papers to download them.
 
 1. [Seldmeier, K., Imfeld, N., Gubler, S., Spirig, C., Quevedo Caiña, K., Escajadillo, Y., ... & Schwierz, C. (2022). The rainy season in the Southern Peruvian Andes: A climatological analysis based on the new Climandes index. International journal of climatology, 43(6), 3005-3022.](/iwmi_literature/Intl_Journal_of_Climatology_-_2023_-_Sedlmeier_-_The_rainy_season_in_the_Southern_Peruvian_Andes_A_climatological_analysis.pdf)
+
+
+2. [Lacombe, G., Hoanh, C. T., & Smakhtin, V. (2012). Multi-year variability or unidirectional trends? Mapping long-term precipitation and temperature changes in continental Southeast Asia using PRECIS regional climate model. Climatic change, 113, 285-299.](/iwmi_literature/Lacombe, Hoanh, Smakhtin - 2012 - Multi-year variability or unidirectional trends Mapping long-term precipitation and temperature change.pdf)
+
+3. [Lacombe, G., McCartney, M., & Forkuor, G. (2012). Drying climate in Ghana over the period 1960–2005: evidence from the resampling-based Mann-Kendall test at local and regional levels. Hydrological Sciences Journal, 57(8), 1594-1609.](/iwmi_literature/Lacombe, McCartney, Forkuor - 2012 - Drying climate in Ghana over the period 1960–2005 evidence from the resampling-based Mann-Kendall t.pdf)
+
+4. [Lacombe, G., Polthanee, A., & Trébuil, G. (2017). Long-term change in rainfall distribution in Northeast Thailand: will cropping systems be able to adapt?.](/iwmi_literature/Lacombe, Polthanee, Trebuil - 2017 - Long-term change in rainfall distribution in Northeast Thailand Will cropping systems be able to ad.pdf)
+
+5. [Lacombe, G., Smakhtin, V., & Hoanh, C. T. (2013). Wetting tendency in the Central Mekong Basin consistent with climate change-induced atmospheric disturbances already observed in East Asia. Theoretical and applied climatology, 111, 251-263.](/iwmi_literature/Lacombe, Smakhtin, Hoanh - 2013 - Wetting tendency in the Central Mekong Basin consistent with climate change-induced atmospheric distur.pdf)
+
+# Poster Content: Additional requirements specified by the case-providing organization
+
+The poster should include methodology used in the analysis, comprehensively summarize findings and integrate innovative visualizations and interpretations.
