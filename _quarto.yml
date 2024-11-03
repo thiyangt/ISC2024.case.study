@@ -7,6 +7,8 @@ website:
   site-url: "https://thiyangt.github.io/ISC2024.case.study/"
   navbar:
     right:
+      - href: index.qmd
+        text: Home
       - guidelines.qmd
       - registration.qmd
       - casestudy1.qmd
