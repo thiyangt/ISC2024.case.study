@@ -65,11 +65,17 @@ Click here to view he abstract template and guidelines.
 
 **5.1 Poster Dimensions:**
 
-The poster must adhere to the specified dimensions outlined by the committee as below.
+* The poster must adhere to the specified dimensions outlined by the committee as below.
 
 -   Poster must be portrait oriented.
 -   Dimensions: 5 ft x 2 ft (height x width).
--   You will not be able to paste it or hang it to any of the walls or stands in the conference venue. Hence, your poster will be a standing poster. The stand will be provided by the conference organizers if required.
+-   You will not be able to paste it or hang it to any of the walls or stands in the conference venue. Hence, your poster will be a standing poster. The stand will be provided by the conference organizers if required. 
+
+- If your team requires a stand, please inform the Institute of Applied Statistics, Sri Lanka by email. Email Address: appstatsl@gmail.com
+
+* Teams are responsible for printing their posters; organizers will not be responsible for poster printing.
+
+* The image below shows a sample standing poster layout, providing a reference for the desired appearance of the final output.
 
 ![](poster.png)
 
@@ -114,3 +120,11 @@ Your poster should include the following sections:
 6.3 Adhere strictly to the 10-minute time limit. Video presentations longer than 10 minutes will not be evaluated.
 
 6.4 Ensure that your video is of good quality, with clear audio and visuals.
+
+# Other important rules
+
+1. All teams must present their poster on December 28–29, 2024, from 3:00 PM to 5:30 PM at Cinnamon Lakeside Colombo, Sri Lanka. Only those who present are eligible for the final awards.
+
+2. Posters with low quality, plagiarism, data fabrication, or any form of copying will result in disqualification, and teams will not be invited to present at ISC 2024.
+
+3. Final decisions will be made by the judges.
