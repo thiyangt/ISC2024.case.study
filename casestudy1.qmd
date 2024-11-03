@@ -37,6 +37,8 @@ For the case study 1, we have two datasets as follows:
 
 2. Areal average daily rainfall time series data in Sri Lanka for major metro stations obtained the from Multi-Source Weighted-Ensemble Precipitation product (https://www.gloh2o.org/mswep/) from 1979 to 2023, stored as a CSV file and provided for Sri Lanka (format – time series data in text or csv).
 
+
+
 # Objectives of the case study
 
 Derive key [rainfall](https://etccdi.pacificclimate.org/list_27_indices.shtml) indices and  analyze spatial-temporal trends and generate innovative visualizations and graphics.
@@ -49,3 +51,10 @@ Participants are expected to:
 
 - Generate visual representations of the analysis 
 Document the methodologies used in their analysis with reproducible code. (Codes should not be included in the poster, submit them as a separate file.)
+
+
+# Lacombe et al., and Sedlmier et al. Papers
+
+Click on the papers to download them.
+
+1. [Seldmeier, K., Imfeld, N., Gubler, S., Spirig, C., Quevedo Caiña, K., Escajadillo, Y., ... & Schwierz, C. (2022). The rainy season in the Southern Peruvian Andes: A climatological analysis based on the new Climandes index. International journal of climatology, 43(6), 3005-3022.](/iwmi_literature/Intl_Journal_of_Climatology_-_2023_-_Sedlmeier_-_The_rainy_season_in_the_Southern_Peruvian_Andes_A_climatological_analysis.pdf)
