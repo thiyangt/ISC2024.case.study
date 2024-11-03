@@ -8,8 +8,6 @@ The [International Statistics Conference 2024 (ISC 2024)](https://isc24.iassl.lk
 
 In conjunction with ISC 2024, a **case study poster competition** will be held to provide undergraduates and recent graduates with an opportunity to showcase their analytical and presentation skills. Participants must enter as teams, encouraging collaboration and shared learning.
 
-
-
 **Benefits of Participating in the Case Study Poster Competition at ISC 2024:**
 
 1.  **Recognition and Exposure:** Showcase your work to a broader audience at a prestigious conference, gaining visibility within the academic and professional community.
@@ -24,4 +22,4 @@ In conjunction with ISC 2024, a **case study poster competition** will be held t
 
 6.  **Skill Development:** Participants will enhance their analytical, research, and presentation skills by working on real-world case studies and presenting their findings.
 
-
+> This competition website is developed and maintained by [Dr. Thiyanga S. Talagala](https://thiyanga.netlify.app/) and [Dr. Priyanga Dilini Talagala](<https://prital.netlify.app/>).

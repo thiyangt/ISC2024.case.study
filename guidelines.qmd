@@ -65,17 +65,19 @@ Click here to view he abstract template and guidelines.
 
 **5.1 Poster Dimensions:**
 
-* The poster must adhere to the specified dimensions outlined by the committee as below.
+-   The poster must adhere to the specified dimensions outlined by the committee as below.
 
 -   Poster must be portrait oriented.
+
 -   Dimensions: 5 ft x 2 ft (height x width).
--   You will not be able to paste it or hang it to any of the walls or stands in the conference venue. Hence, your poster will be a standing poster. The stand will be provided by the conference organizers if required. 
 
-- If your team requires a stand, please inform the Institute of Applied Statistics, Sri Lanka by email. Email Address: appstatsl@gmail.com
+-   You will not be able to paste it or hang it to any of the walls or stands in the conference venue. Hence, your poster will be a standing poster. The stand will be provided by the conference organizers if required.
 
-* Teams are responsible for printing their posters; organizers will not be responsible for poster printing.
+-   If your team requires a stand, please inform the Institute of Applied Statistics, Sri Lanka by email. Email Address: appstatsl\@gmail.com
 
-* The image below shows a sample standing poster layout, providing a reference for the desired appearance of the final output.
+-   Teams are responsible for printing their posters; organizers will not be responsible for poster printing.
+
+-   The image below shows a sample standing poster layout, providing a reference for the desired appearance of the final output.
 
 ![](poster.png)
 
@@ -123,12 +125,12 @@ Your poster should include the following sections:
 
 # 7. Other important rules
 
-1. All teams must present their poster on December 28–29, 2024, from 3:00 PM to 5:30 PM at Cinnamon Lakeside Colombo, Sri Lanka. Only those who present are eligible for the final awards.
+1.  All teams must present their poster on December 28–29, 2024, from 3:00 PM to 5:30 PM at Cinnamon Lakeside Colombo, Sri Lanka. Only those who present are eligible for the final awards.
 
-2. Posters with low quality, plagiarism, data fabrication, or any form of copying will result in disqualification, and teams will not be invited to present at ISC 2024.
+2.  Posters with low quality, plagiarism, data fabrication, or any form of copying will result in disqualification, and teams will not be invited to present at ISC 2024.
 
-3. Final decisions will be made by the judges.
+3.  Final decisions will be made by the judges.
 
-4. All participants are required to regularly check the website- Announcements page, as important notices will be posted here!
+4.  All participants are required to regularly check the website- [Announcements](https://thiyangt.github.io/ISC2024.case.study/announcements.html) page, as important notices will be posted there!
 
-5. If any data quality issues arise (such as missing data, outliers, etc.), teams should address them independently and not direct those queries to the organizing committee. Please clearly outline the methods you used to handle these issues on your poster.
+5.  If any data quality issues arise (such as missing data, outliers, etc.), teams should address them independently and not direct those queries to the organizing committee. Please clearly outline the methods you used to handle these issues on your poster.
