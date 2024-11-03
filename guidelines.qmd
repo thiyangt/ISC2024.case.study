@@ -16,6 +16,8 @@ title: "Competition Guidelines"
 
 1.6 A participant can be part of only one team.
 
+1.7 Undergraduates should confirm their student status by submitting a scanned copy of their university ID. Recent graduates should provide either a transcript specifying the degree's effective date or a letter from the Department Head/Registrar/Assistant Registrar/ Head of Institution confirming the degree's effective date.
+
 # 2. Competition Task
 
 2.1 There are two case studies available. Descriptions for Case Study 1 and Case Study 2 can be viewed by hovering over the respective tabs.
@@ -27,6 +29,8 @@ title: "Competition Guidelines"
 2.4 Based on their analysis, each team should submit the following documents: **1) abstract, 2) digital copy of the poster, 3) 10-minutes video presentation, 4) printed copy of the poster according to the dimensions specified in 5.1, 5) Programming codes written for analysis to ensure the reproducibility of results.**
 
 2.5 See sections 4-5 for abstract, poster and video presentation guidelines.
+
+2.6 Each case study will have first, second, and third place winners selected.
 
 # 3. Important Dates
 
@@ -59,20 +63,23 @@ kable(df, format = "html", table.attr = "style='width: 100%;'") %>%
 
 # 4. Abstract Guidelines
 
+-   Please only capitalise the first word and pronouns in your Paper Title
 
--	Please only capitalise the first word and pronouns in your Paper Title
--	Make sure you include all the authors and their organisation details in the abstract
--	Highlight the corresponding author by placing *
--	Use “Times New Roman” for all text including headings. 
--	Use the Normal style for all text (style-normal) where possible in preference to "Body text" styles. Normal text should be 12 point with single line spacing.
--	Margins should be set at 1 inch all round.
+-   Make sure you include all the authors and their organisation details in the abstract
 
-- Your abstract must be submitted as a Microsoft Word document and PDF document.
+-   Highlight the corresponding author by placing \*
 
-- Only one A4 page is permitted.
+-   Use “Times New Roman” for all text including headings.
 
-- Click [here](/abstract.docx) to view the abstract template.
+-   Use the Normal style for all text (style-normal) where possible in preference to "Body text" styles. Normal text should be 12 point with single line spacing.
 
+-   Margins should be set at 1 inch all round.
+
+-   Your abstract must be submitted as a Microsoft Word document and PDF document.
+
+-   Only one A4 page is permitted.
+
+-   Click [here](/abstract.docx) to view the abstract template.
 
 # 5. Poster Guidelines
 
