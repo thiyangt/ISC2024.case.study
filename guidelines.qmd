@@ -59,7 +59,20 @@ kable(df, format = "html", table.attr = "style='width: 100%;'") %>%
 
 # 4. Abstract Guidelines
 
-Click here to view he abstract template and guidelines.
+
+-	Please only capitalise the first word and pronouns in your Paper Title
+-	Make sure you include all the authors and their organisation details in the abstract
+-	Highlight the corresponding author by placing *
+-	Use “Times New Roman” for all text including headings. 
+-	Use the Normal style for all text (style-normal) where possible in preference to "Body text" styles. Normal text should be 12 point with single line spacing.
+-	Margins should be set at 1 inch all round.
+
+- Your abstract must be submitted as a Microsoft Word document and PDF document.
+
+- Only one A4 page is permitted.
+
+- Click [here](/abstract.docx) to view the abstract template.
+
 
 # 5. Poster Guidelines
 
