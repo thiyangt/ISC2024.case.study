@@ -2,7 +2,10 @@
 title: "Case Study 1"
 ---
 
-# Case Giving Organization: [International Water Managment Institute](https://www.iwmi.cgiar.org/)
+
+# Derive key rainfall indices and analyze spatial-temporal trends and generate innovative visualizations and graphics
+
+# Case giving organization: [International Water Managment Institute](https://www.iwmi.cgiar.org/)
 
 <div style="text-align: justify;">
 
