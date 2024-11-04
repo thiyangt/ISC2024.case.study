@@ -44,7 +44,7 @@ Date <- c("November 4, 2024 - November 17, 2024",
           "November 17, 2024 11:59PM",
           "TBA", 
           "December 5, 2024 11:59PM", 
-          "December 29, 2024 3:00PM - 5:30PM at Cinnamon Lakeside Colombo")
+          "December 28, 2024 3:00PM - 5:30PM at Cinnamon Lakeside Colombo")
 
 Task <- c("Competition registration period",
           "Registration closes",
