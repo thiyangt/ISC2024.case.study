@@ -44,4 +44,4 @@ Fill [this](/declaration/declaration.pdf) declaration form.
 
 # Upon registration, you will receive access to the data within 24 hours. If you do not receive access within this timeframe, please contact us at appstatsl\@gmail.com
 
-NOTE: The Institute of Applied Statistics, Sri Lanka (IASSL) will provide access to a shared folder named **CaseStudyISC2024**. Inside this main folder, you will find two subfolders: **CaseStudy1** and **CaseStudy2**, each containing their respective data files and supporting documents.
+
