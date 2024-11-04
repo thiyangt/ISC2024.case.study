@@ -2,74 +2,69 @@
 title: "Case Study 1"
 ---
 
-
 # Derive key rainfall indices and analyze spatial-temporal trends and generate innovative visualizations and graphics
 
 # Case giving organization: [International Water Managment Institute](https://www.iwmi.cgiar.org/)
 
-<div style="text-align: justify;">
+::: {style="text-align: justify;"}
+The International Water Management Institute (IWMI) is an international research-for-development (R4D) organization with offices in 15 countries and a global network of over \~200 scientists operating in 56 countries. Our vision is a water-secure world, and our mission is to provide water solutions for sustainable, climate-resilient development. For nearly four decades, our research results have led to positive changes in water management that have contributed to social and economic development. IWMI is a member research center of the CGIAR, a global research partnership for a food-secure future dedicated to reducing poverty, enhancing food and nutrition security, and improving natural resources management. IWMI targets water and land management challenges faced by poor communities in developing countries, and through this contributes towards the achievement of the Sustainable Development Goals (SDGs) of reducing poverty and hunger and maintaining a sustainable environment. Based on evidence and knowledge drawn from our science, innovative technologies, and testing of business models, IWMI works with governments, farmers, water managers, development partners, and businesses to solve water problems and scale-up solutions. Together with our partners, we combine research with data to build and enhance knowledge, information services and products, strengthen capacity, convene dialogue, and deliver actionable policy analysis to support the implementation of solutions for water management. Through research, policy development, capacity building, and knowledge sharing, IWMI:
 
-The International Water Management Institute (IWMI) is an international research-for-development (R4D) organization with offices in 15 countries and a global network of over ~200 scientists operating in 56 countries. Our vision is a water-secure world, and our mission is to provide water solutions for sustainable, climate-resilient development. For nearly four decades, our research results have led to positive changes in water management that have contributed to social and economic development.
-IWMI is a member research center of the CGIAR, a global research partnership for a food-secure future dedicated to reducing poverty, enhancing food and nutrition security, and improving natural resources management. IWMI targets water and land management challenges faced by poor communities in developing countries, and through this contributes towards the achievement of the Sustainable Development Goals (SDGs) of reducing poverty and hunger and maintaining a sustainable environment.
-Based on evidence and knowledge drawn from our science, innovative technologies, and testing of business models, IWMI works with governments, farmers, water managers, development partners, and businesses to solve water problems and scale-up solutions. Together with our partners, we combine research with data to build and enhance knowledge, information services and products, strengthen capacity, convene dialogue, and deliver actionable policy analysis to support the implementation of solutions for water management. Through research, policy development, capacity building, and knowledge sharing, IWMI:
+-   Provides insights into water and land management from field to basin scales.
 
+-   Analyzes biophysical and socioeconomic processes.
 
-- Provides insights into water and land management from field to basin scales.
+-   Assesses trade-offs of alternative development scenarios, taking a nexus perspective.
 
-- Analyzes biophysical and socioeconomic processes.
+-   Incorporates ecosystem approaches into agricultural systems.
 
-- Assesses trade-offs of alternative development scenarios, taking a nexus perspective. 
+-   Assesses performance and identifies solutions for agricultural water management – large- and small-scale.
 
-- Incorporates ecosystem approaches into agricultural systems.
+-   Improves resilience to climate shocks and provides flood and drought analysis for planning and response, and analysis of big data in real time.
 
-- Assesses performance and identifies solutions for agricultural water management – large- and small-scale.
+-   Identifies groundwater solutions, reducing overuse and recharging for resilience.
 
-- Improves resilience to climate shocks and provides flood and drought analysis for planning and response, and analysis of big data in real time.
+-   Promotes recovery and the safe reuse of organic waste and wastewater in agriculture.
 
-- Identifies groundwater solutions, reducing overuse and recharging for resilience.
-- Promotes recovery and the safe reuse of organic waste and wastewater in agriculture.
+-   IWMI has a strong record of accomplishment in research and development, in groundwater management, water budgets and water balance assessments, integrated water resources management, data management, capacity building, and climate change adaptation in data rich and data sparse environments.
+:::
 
-- IWMI has a strong record of accomplishment in research and development, in groundwater management, water budgets and water balance assessments, integrated water resources management, data management, capacity building, and climate change adaptation in data rich and data sparse environments. 
-</div>
-
-# Data sets 
+# Data sets
 
 For the case study 1, we have two datasets as follows:
 
-1. Daily remote sensing based rainfall data of Sri Lanka: Daily time series  of rainfall data obtained the from Multi-Source Weighted-Ensemble Precipitation product (https://www.gloh2o.org/mswep/) 1979 to 2023, stored as GeoTIFF files (Format – geospatial).
+1.  Daily remote sensing based rainfall data of Sri Lanka: Daily time series of rainfall data obtained the from Multi-Source Weighted-Ensemble Precipitation product (https://www.gloh2o.org/mswep/) 1979 to 2023, stored as GeoTIFF files (Format – geospatial).
 
-2. Areal average daily rainfall time series data in Sri Lanka for major metro stations obtained the from Multi-Source Weighted-Ensemble Precipitation product (https://www.gloh2o.org/mswep/) from 1979 to 2023, stored as a CSV file and provided for Sri Lanka (format – time series data in text or csv).
+(Dataset: 1a_SL_daily_05_tif folder)
 
+2.  Areal average daily rainfall time series data in Sri Lanka for major metro stations obtained the from Multi-Source Weighted-Ensemble Precipitation product (https://www.gloh2o.org/mswep/) from 1979 to 2023, stored as a .xlsx file and provided for Sri Lanka (format – time series data).
 
+(Dataset: 1b_SL_Rainfall_MSWEP_mm_day_Meto_Sta_1979_2024.xlsx)
 
 # Objectives of the case study
 
-Derive key [rainfall](https://etccdi.pacificclimate.org/list_27_indices.shtml) indices and  analyze spatial-temporal trends and generate innovative visualizations and graphics.
+Derive key [rainfall](https://etccdi.pacificclimate.org/list_27_indices.shtml) indices and analyze spatial-temporal trends and generate innovative visualizations and graphics.
 
 Participants are expected to:
 
-- Conduct spatial and temporal trend analysis and change detection using the provided datasets. In particular we are interested in the trend analysis indicators presented by Lacombe et al., and Sedlmier et al., (see attached papers under the section "Lacombe et al., and Sedlmier et al. Papers").
+-   Conduct spatial and temporal trend analysis and change detection using the provided datasets. In particular we are interested in the trend analysis indicators presented by Lacombe et al., and Sedlmier et al., (see attached papers under the section "Lacombe et al., and Sedlmier et al. Papers").
 
-- Analyze seasonality and other temporal patterns in the data. 
+-   Analyze seasonality and other temporal patterns in the data.
 
-- Generate visual representations of the analysis 
-Document the methodologies used in their analysis with reproducible code. (Codes should not be included in the poster, submit them as a separate file.)
-
+-   Generate visual representations of the analysis Document the methodologies used in their analysis with reproducible code. (Codes should not be included in the poster, submit them as a separate file.)
 
 # Lacombe et al., and Sedlmier et al. Papers
 
 Click on the papers to download them.
 
-1. [Seldmeier, K., Imfeld, N., Gubler, S., Spirig, C., Quevedo Caiña, K., Escajadillo, Y., ... & Schwierz, C. (2022). The rainy season in the Southern Peruvian Andes: A climatological analysis based on the new Climandes index. International journal of climatology, 43(6), 3005-3022.](/iwmi_literature/Intl_Journal_of_Climatology_-_2023_-_Sedlmeier_-_The_rainy_season_in_the_Southern_Peruvian_Andes_A_climatological_analysis.pdf)
+1.  [Seldmeier, K., Imfeld, N., Gubler, S., Spirig, C., Quevedo Caiña, K., Escajadillo, Y., ... & Schwierz, C. (2022). The rainy season in the Southern Peruvian Andes: A climatological analysis based on the new Climandes index. International journal of climatology, 43(6), 3005-3022.](/iwmi_literature/Intl_Journal_of_Climatology_-_2023_-_Sedlmeier_-_The_rainy_season_in_the_Southern_Peruvian_Andes_A_climatological_analysis.pdf)
 
+2.  [Lacombe, G., Hoanh, C. T., & Smakhtin, V. (2012). Multi-year variability or unidirectional trends? Mapping long-term precipitation and temperature changes in continental Southeast Asia using PRECIS regional climate model. Climatic change, 113, 285-299.](/iwmi_literature/Lacombe,%20Hoanh,%20Smakhtin%20-%202012%20-%20Multi-year%20variability%20or%20unidirectional%20trends%20Mapping%20long-term%20precipitation%20and%20temperature%20change.pdf)
 
-2. [Lacombe, G., Hoanh, C. T., & Smakhtin, V. (2012). Multi-year variability or unidirectional trends? Mapping long-term precipitation and temperature changes in continental Southeast Asia using PRECIS regional climate model. Climatic change, 113, 285-299.](/iwmi_literature/Lacombe, Hoanh, Smakhtin - 2012 - Multi-year variability or unidirectional trends Mapping long-term precipitation and temperature change.pdf)
+3.  [Lacombe, G., McCartney, M., & Forkuor, G. (2012). Drying climate in Ghana over the period 1960–2005: evidence from the resampling-based Mann-Kendall test at local and regional levels. Hydrological Sciences Journal, 57(8), 1594-1609.](/iwmi_literature/Lacombe,%20McCartney,%20Forkuor%20-%202012%20-%20Drying%20climate%20in%20Ghana%20over%20the%20period%201960–2005%20evidence%20from%20the%20resampling-based%20Mann-Kendall%20t.pdf)
 
-3. [Lacombe, G., McCartney, M., & Forkuor, G. (2012). Drying climate in Ghana over the period 1960–2005: evidence from the resampling-based Mann-Kendall test at local and regional levels. Hydrological Sciences Journal, 57(8), 1594-1609.](/iwmi_literature/Lacombe, McCartney, Forkuor - 2012 - Drying climate in Ghana over the period 1960–2005 evidence from the resampling-based Mann-Kendall t.pdf)
+4.  [Lacombe, G., Polthanee, A., & Trébuil, G. (2017). Long-term change in rainfall distribution in Northeast Thailand: will cropping systems be able to adapt?.](/iwmi_literature/Lacombe,%20Polthanee,%20Trebuil%20-%202017%20-%20Long-term%20change%20in%20rainfall%20distribution%20in%20Northeast%20Thailand%20Will%20cropping%20systems%20be%20able%20to%20ad.pdf)
 
-4. [Lacombe, G., Polthanee, A., & Trébuil, G. (2017). Long-term change in rainfall distribution in Northeast Thailand: will cropping systems be able to adapt?.](/iwmi_literature/Lacombe, Polthanee, Trebuil - 2017 - Long-term change in rainfall distribution in Northeast Thailand Will cropping systems be able to ad.pdf)
-
-5. [Lacombe, G., Smakhtin, V., & Hoanh, C. T. (2013). Wetting tendency in the Central Mekong Basin consistent with climate change-induced atmospheric disturbances already observed in East Asia. Theoretical and applied climatology, 111, 251-263.](/iwmi_literature/Lacombe, Smakhtin, Hoanh - 2013 - Wetting tendency in the Central Mekong Basin consistent with climate change-induced atmospheric distur.pdf)
+5.  [Lacombe, G., Smakhtin, V., & Hoanh, C. T. (2013). Wetting tendency in the Central Mekong Basin consistent with climate change-induced atmospheric disturbances already observed in East Asia. Theoretical and applied climatology, 111, 251-263.](/iwmi_literature/Lacombe,%20Smakhtin,%20Hoanh%20-%202013%20-%20Wetting%20tendency%20in%20the%20Central%20Mekong%20Basin%20consistent%20with%20climate%20change-induced%20atmospheric%20distur.pdf)
 
 # Poster Content: Additional requirements specified by the case-providing organization
 

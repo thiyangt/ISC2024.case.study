@@ -2,7 +2,6 @@
 title: "Case Study 2"
 ---
 
-
 # Predicting Credit Risk and Building a Credit Risk Score to detect Fraud
 
 # Case giving organization
@@ -11,118 +10,67 @@ The name of the organization supplying the case is kept confidential.
 
 # Introduction to the case study 2
 
-<div style="text-align: justify;">
+::: {style="text-align: justify;"}
+The financial industry is built on lending. From mortgages to credit cards, personal loans to business financing, banks extend credit to customers to generate profit. However, lending carries several risks. Beyond traditional credit risks such as the possibility that borrowers may fail to repay their debts, financial institutions today face an equally concerning threat: fraudulent activity. Fraudulent behavior is when an individual's exploit vulnerabilities in the lending system. This not only represents a risk of default but also a potential legal and financial exposure for the bank.
 
-The financial industry is built on lending. From mortgages to credit cards, personal loans to
-business financing, banks extend credit to customers to generate profit. However, lending carries several risks. Beyond traditional credit risks such as the possibility that borrowers may fail to repay their debts, financial institutions today face an equally concerning threat: fraudulent activity. Fraudulent behavior is when an individual's exploit vulnerabilities in the lending system. This not only represents a risk of default but also a potential legal and financial exposure for the bank.
+In the world of lending, a charge-off is a term that strikes fear into the hearts of financial institutions. When an account is “charged off,” it means that the bank or lender has determined that the borrower is highly unlikely to pay back their debt. As a result, the lender removes the debt from its balance sheet, recognizing it as a financial loss. However, just because an account is charged off doesn’t mean that the borrower is completely off the hook. The lender may still pursue collections or sell the debt to a collection agency.
 
-In the world of lending, a charge-off is a term that strikes fear into the hearts of financial
-institutions. When an account is “charged off,” it means that the bank or lender has determined
-that the borrower is highly unlikely to pay back their debt. As a result, the lender removes the debt from its balance sheet, recognizing it as a financial loss. However, just because an account is
-charged off doesn’t mean that the borrower is completely off the hook. The lender may still pursue collections or sell the debt to a collection agency.
-
-In particular, accounts that become charged off, many customers display behaviors that suggest
-potential fraud. These customers intentionally apply for loans with no intention of repayment, a
-clear indication of fraud. Without a proactive method to detect such customers, they have the
-ability to engage in such activities with various banks. Given these complexities, financial institutions need robust tools to predict not just credit risk but also the likelihood of fraud. A charge-off is not merely a sign of financial distress but may also be an indicator of deliberate fraudulent activity. Identifying these signals early allows banks to prevent fraudulent losses, minimize risks, and ensure compliance with stringent regulatory frameworks.
-</div>
+In particular, accounts that become charged off, many customers display behaviors that suggest potential fraud. These customers intentionally apply for loans with no intention of repayment, a clear indication of fraud. Without a proactive method to detect such customers, they have the ability to engage in such activities with various banks. Given these complexities, financial institutions need robust tools to predict not just credit risk but also the likelihood of fraud. A charge-off is not merely a sign of financial distress but may also be an indicator of deliberate fraudulent activity. Identifying these signals early allows banks to prevent fraudulent losses, minimize risks, and ensure compliance with stringent regulatory frameworks.
+:::
 
 # Problem Statement and Defining the Objectives
 
 **Scenario: Your Role as a Data Scientist at a Leading Financial Institution**
 
-<div style="text-align: justify;">
+::: {style="text-align: justify;"}
 You are the lead data scientist at a major financial institution, responsible for managing consumer credit products such as credit cards, personal loans, and mortgages. Over the past few years, your institution has experienced a sharp increase in the number of charged-off accounts, particularly in the credit card and personal loan divisions. Senior management has raised alarms over the financial and reputational risks posed by these charge-offs, with a growing concern about fraudulent activity.
 
-As part of your role, you have been tasked with building a sophisticated fraud detection and credit
-risk scoring model. The executive team needs a system that identifies fraudulent activity by
-identifying high risk customers. A high-risk customer with a high-risk credit score can indicate
-fraudulent activities as the customer can be creating a profile to get loans with the ultimate
-intention of defaulting. The current models, which rely heavily on traditional financial ratios and
-FICO scores, are insufficient for addressing the evolving challenges posed by fraudsters who are
-becoming increasingly adept at evading detection.
+As part of your role, you have been tasked with building a sophisticated fraud detection and credit risk scoring model. The executive team needs a system that identifies fraudulent activity by identifying high risk customers. A high-risk customer with a high-risk credit score can indicate fraudulent activities as the customer can be creating a profile to get loans with the ultimate intention of defaulting. The current models, which rely heavily on traditional financial ratios and FICO scores, are insufficient for addressing the evolving challenges posed by fraudsters who are becoming increasingly adept at evading detection.
 
-You are provided with a dataset containing customer records, each reflecting financial and
-behavioral data related to their credit history. Your task is to design a predictive model that assigns
-a risk score between 0 (low risk) and 1000 (high risk), and thereby detects potentially fraudulent
-activity among these high-risk customers. The score will be used by credit officers to guide their
-decision-making on whether to approve or deny credit to high-risk customers.
+You are provided with a dataset containing customer records, each reflecting financial and behavioral data related to their credit history. Your task is to design a predictive model that assigns a risk score between 0 (low risk) and 1000 (high risk), and thereby detects potentially fraudulent activity among these high-risk customers. The score will be used by credit officers to guide their decision-making on whether to approve or deny credit to high-risk customers.
 
-However, it should be noted that, in high-stakes domains like finance, especially when dealing
-with fraud detection and credit risk assessment, explainability is essential. While predictive models
-may achieve high accuracy, their decisions must be transparent and justifiable to both internal
-stakeholders (e.g., credit officers) and external regulatory bodies. Banks must be able to explain
-why a customer was flagged as high-risk or fraudulent to ensure fairness, avoid legal issues, and
-maintain customer trust. Explainability is essential for several reasons:
+However, it should be noted that, in high-stakes domains like finance, especially when dealing with fraud detection and credit risk assessment, explainability is essential. While predictive models may achieve high accuracy, their decisions must be transparent and justifiable to both internal stakeholders (e.g., credit officers) and external regulatory bodies. Banks must be able to explain why a customer was flagged as high-risk or fraudulent to ensure fairness, avoid legal issues, and maintain customer trust. Explainability is essential for several reasons:
 
-1. Regulatory Compliance: Financial institutions are required to comply with strict regulatory
-frameworks regarding risk assessments and decision-making. Black-box models, where the
-decision-making process is opaque, may not be acceptable to regulators. Your model needs
-to generate interpretable outputs, explaining how specific features (e.g., FICO score,
-delinquent accounts, payment methods) contributed to the decision.
+1.  Regulatory Compliance: Financial institutions are required to comply with strict regulatory frameworks regarding risk assessments and decision-making. Black-box models, where the decision-making process is opaque, may not be acceptable to regulators. Your model needs to generate interpretable outputs, explaining how specific features (e.g., FICO score, delinquent accounts, payment methods) contributed to the decision.
 
-2. Customer Trust and Fairness: In cases where customers are flagged as high-risk or
-fraudulent, banks must provide clear explanations to customers about why they were
-denied credit or flagged for further review. Ensuring transparency can protect banks from
-accusations of bias or discrimination.
+2.  Customer Trust and Fairness: In cases where customers are flagged as high-risk or fraudulent, banks must provide clear explanations to customers about why they were denied credit or flagged for further review. Ensuring transparency can protect banks from accusations of bias or discrimination.
 
-3. Internal Decision-Making: Credit officers and fraud investigators rely on risk models to
-inform their decisions. However, beyond a simple risk score, they need to understand the
-factors driving the risk. Was the customer flagged because of their FICO score? Or was it
-their unusual submission pattern or the use of a high-risk payment method? Your model
-should provide actionable insights that allow the bank to take appropriate actions, such as
-investigating potential fraud cases more deeply or offering alternative repayment plans.
+3.  Internal Decision-Making: Credit officers and fraud investigators rely on risk models to inform their decisions. However, beyond a simple risk score, they need to understand the factors driving the risk. Was the customer flagged because of their FICO score? Or was it their unusual submission pattern or the use of a high-risk payment method? Your model should provide actionable insights that allow the bank to take appropriate actions, such as investigating potential fraud cases more deeply or offering alternative repayment plans.
 
-Therefore, your task is not only to predict credit risk score but also to ensure that the model's
-decisions are explainable. Each prediction should be traceable to key features, such as the
-customer’s FICO score, debt-to-income ratio, or the number of delinquent accounts. These factors
-should be presented clearly to both the bank’s management and the regulatory bodies. You will
-need to strike a balance between complexity (for better performance) and interpretability (for
-regulatory and business use).
+Therefore, your task is not only to predict credit risk score but also to ensure that the model's decisions are explainable. Each prediction should be traceable to key features, such as the customer’s FICO score, debt-to-income ratio, or the number of delinquent accounts. These factors should be presented clearly to both the bank’s management and the regulatory bodies. You will need to strike a balance between complexity (for better performance) and interpretability (for regulatory and business use).
 
 As a summary, the objectives of this case study are as follows:
 
-  - Perform a comprehensive Exploratory Data Analysis (EDA) to understand the underlying
-patterns and investigate the key relationships between variables, particularly those related
-with fraudulent behavior and the likelihood of charge-off. Support your analysis with
-relevant literature on fraud detection and credit risk management.
+-   Perform a comprehensive Exploratory Data Analysis (EDA) to understand the underlying patterns and investigate the key relationships between variables, particularly those related with fraudulent behavior and the likelihood of charge-off. Support your analysis with relevant literature on fraud detection and credit risk management.
 
-  - Model Development: Build a machine learning model that predicts whether an account is
-likely to be charged off (a good indicator of fraudulent accounts) and generates a credit risk
-score between 0 and 1000 for each customer based on their predicted risk level. This score
-should be interpretable, with 0 representing low risk and 1000 representing high risk.
-
-</div>
+-   Model Development: Build a machine learning model that predicts whether an account is likely to be charged off (a good indicator of fraudulent accounts) and generates a credit risk score between 0 and 1000 for each customer based on their predicted risk level. This score should be interpretable, with 0 representing low risk and 1000 representing high risk.
+:::
 
 # Dataset Overview
 
-The dataset consists of 7000 observations, each representing an individual who applied for credit.
-It includes a combination of demographic, financial, and behavioral variables.
+The dataset consists of 7000 observations, each representing an individual who applied for credit. It includes a combination of demographic, financial, and behavioral variables.
+
+Data set: fraud_detection_dataset.csv
 
 Description of the variables:
 
-1. `Account_open_date`: Date on which the account was opened.
+1.  `Account_open_date`: Date on which the account was opened.
 
-2. `Age`: Age of the customer.
+2.  `Age`: Age of the customer.
 
-3. `Location`: Location where the customer is located.
+3.  `Location`: Location where the customer is located.
 
-4. `Occupation`: Occupation of customer.
+4.  `Occupation`: Occupation of customer.
 
-5. `Income_level`: Income level of customer.
+5.  `Income_level`: Income level of customer.
 
-6. `Fico_score`: Credit score created by the Fair Isacc Corporation (FICO), which is widely
-used by lenders to assess the creditworthiness of borrowers. It’s a three-digit number that
-typically ranges from 300 – 850, with higher scores indicating better credit risk.
+6.  `Fico_score`: Credit score created by the Fair Isacc Corporation (FICO), which is widely used by lenders to assess the creditworthiness of borrowers. It’s a three-digit number that typically ranges from 300 – 850, with higher scores indicating better credit risk.
 
-7. `Delinquency_status`: Indicates how late a customer is in making their required payments.
-Measured in number of days.
+7.  `Delinquency_status`: Indicates how late a customer is in making their required payments. Measured in number of days.
 
-8. `Number_of_credit_applications`: How many times a customer has applied for credit within
-a certain period.
+8.  `Number_of_credit_applications`: How many times a customer has applied for credit within a certain period.
 
-9. `Debt_to_income_ratio`: High Debt to Income ratios could indicate financial distress, which
-may correlate with fraud risk.
+9.  `Debt_to_income_ratio`: High Debt to Income ratios could indicate financial distress, which may correlate with fraud risk.
 
 10. `Payment_methods_high_risk`: High risk payment methods like cryptocurrencies.
 
@@ -130,51 +78,34 @@ may correlate with fraud risk.
 
 12. `Avg_balance_last_12months`: Average account balance over the past year.
 
-13. `Number_of_delinquent_accounts`: Count of accounts that have missed one or more
-payments within a specified period.
+13. `Number_of_delinquent_accounts`: Count of accounts that have missed one or more payments within a specified period.
 
-14. `Number_of_defaulted_accounts`: Count of accounts where the user has failed to meet the
-agreed–upon repayment terms for an extended period and has led to default.
+14. `Number_of_defaulted_accounts`: Count of accounts where the user has failed to meet the agreed–upon repayment terms for an extended period and has led to default.
 
 15. `Earliest_credit_account`: Date of the first credit account opened by a user.
 
 16. `Recent_trade_activity`: Date of the most recent transaction activities reported.
 
-17. `New_accounts_opened_last_12months`: Number of new accounts opened over the last
-year.
+17. `New_accounts_opened_last_12months`: Number of new accounts opened over the last year.
 
-18. `Multiple_applications_short_time_period`: Occurrence of a user submitting multiple credit
-applications within short period. This is a Boolean variable.
+18. `Multiple_applications_short_time_period`: Occurrence of a user submitting multiple credit applications within short period. This is a Boolean variable.
 
-True – user has submitted multiple credit applications, False – user hasn’t submitted
-multiple credit applications
+True – user has submitted multiple credit applications, False – user hasn’t submitted multiple credit applications
 
-19. `Unusual_submission_pattern`: Identification of irregular behavior in the transactions by a
-user. This is a Boolean variable.
+19. `Unusual_submission_pattern`: Identification of irregular behavior in the transactions by a user. This is a Boolean variable.
 
-True – User has exhibited irregular behavior, False - User hasn’t exhibited irregular
-behavior
+True – User has exhibited irregular behavior, False - User hasn’t exhibited irregular behavior
 
-20. `Applications_submitted_during_odd_hours`: Whether the transactions were done outside
-of standard business hours (late night, early morning). This is a Boolean variable.
+20. `Applications_submitted_during_odd_hours`: Whether the transactions were done outside of standard business hours (late night, early morning). This is a Boolean variable.
 
-True – User done the transaction during odd hours, False – User done the transaction during
-standard hours
+True – User done the transaction during odd hours, False – User done the transaction during standard hours
 
-21. `Watchlist_blacklist_flag`: Whether the user appears on a predefined list that are considered
-high risk for activities. This is a Boolean variable.
+21. `Watchlist_blacklist_flag`: Whether the user appears on a predefined list that are considered high risk for activities. This is a Boolean variable.
 
 True – user is on the predefined list, False – user isn’t on the predefined list
 
-22. `Public_records_flag`: Whether the user has any entries in public records that may affect
-their creditworthiness or financial stability. This is a Boolean variable.
-True – user has one or more public records, False – user doesn’t have any public records
+22. `Public_records_flag`: Whether the user has any entries in public records that may affect their creditworthiness or financial stability. This is a Boolean variable. True – user has one or more public records, False – user doesn’t have any public records
 
 **Target Variable:**
 
-- Charge Off Status: This is a boolean variable (True/False). True indicates that indicates that
-the account has been charged off. This means that the customer has failed to meet their
-repayment obligations for an extended period (typically 120 to 180 days, depending on the
-type of credit product) False indicates that the account is still active and has not been
-charged off. This means that the customer is either current with their payments or has not
-yet reached the charge-off threshold.
+-   Charge Off Status: This is a boolean variable (True/False). True indicates that indicates that the account has been charged off. This means that the customer has failed to meet their repayment obligations for an extended period (typically 120 to 180 days, depending on the type of credit product) False indicates that the account is still active and has not been charged off. This means that the customer is either current with their payments or has not yet reached the charge-off threshold.
