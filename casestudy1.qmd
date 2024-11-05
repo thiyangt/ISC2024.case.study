@@ -25,7 +25,7 @@ The International Water Management Institute (IWMI) is an international research
 
 -   Promotes recovery and the safe reuse of organic waste and wastewater in agriculture.
 
--   IWMI has a strong record of accomplishment in research and development, in groundwater management, water budgets and water balance assessments, integrated water resources management, data management, capacity building, and climate change adaptation in data rich and data sparse environments.
+IWMI has a strong record of accomplishment in research and development, in groundwater management, water budgets and water balance assessments, integrated water resources management, data management, capacity building, and climate change adaptation in data rich and data sparse environments.
 :::
 
 # Data sets
@@ -50,7 +50,8 @@ Participants are expected to:
 
 -   Analyze seasonality and other temporal patterns in the data.
 
--   Generate visual representations of the analysis Document the methodologies used in their analysis with reproducible code. (Codes should not be included in the poster, submit them as a separate file.)
+-   Generate visual representations of the analysis 
+- Document the methodologies used in their analysis with reproducible code. (Codes should not be included in the poster, submit them as a separate file.)
 
 # Lacombe et al., and Sedlmier et al. Papers
 
