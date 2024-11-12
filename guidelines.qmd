@@ -42,13 +42,13 @@ library(kableExtra)
 # Create the data frame
 Date <- c("November 4, 2024 - November 17, 2024",
           "November 17, 2024 11:59PM",
-          "TBA", 
+          "November 13, 2024", 
           "December 5, 2024 11:59PM", 
           "December 28, 2024 3:00PM - 5:30PM at Cinnamon Lakeside Colombo")
 
 Task <- c("Competition registration period",
           "Registration closes",
-          "Pre-competition workshops",
+          "Pre-competition workshop by the IWMI",
           "Deadline for the submission (case study abstract, poster, 10-minute video presentation)", 
           "Poster Display and Evaluation at ISC 2024")
 
